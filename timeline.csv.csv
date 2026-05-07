@@ -1,0 +1,172 @@
+Sat Apr 24 1999 01:22:00    93890 m..b r/rr-xr-xr-x 48       0        120-128-3 /COMMAND.COM
+                               88 m.cb r/rr-xr-xr-x 48       0        120-48-1 /COMMAND.COM ($FILE_NAME)
+                           222390 m..b r/r--x--x--x 48       0        133-128-3 /IO.SYS
+                               78 m.cb r/r--x--x--x 48       0        133-48-1 /IO.SYS ($FILE_NAME)
+Thu Aug 23 2001 21:00:00   222368 m..b r/r--x--x--x 48       0        3662-128-3 /ntldr
+                               76 m.cb r/r--x--x--x 48       0        3662-48-1 /ntldr ($FILE_NAME)
+                            45124 m..b r/r--x--x--x 48       0        3663-128-3 /ntdetect.com
+                               90 m.cb r/r--x--x--x 48       0        3663-48-1 /ntdetect.com ($FILE_NAME)
+Wed Aug 18 2004 03:00:00    93890 .a.. r/rr-xr-xr-x 48       0        120-128-3 /COMMAND.COM
+                               88 .a.. r/rr-xr-xr-x 48       0        120-48-1 /COMMAND.COM ($FILE_NAME)
+                             5166 .a.. r/rr-xr-xr-x 48       0        121-128-3 /SUHDLOG.DAT
+                               88 .a.. r/rr-xr-xr-x 48       0        121-48-1 /SUHDLOG.DAT ($FILE_NAME)
+                             1012 .a.. r/rrwxrwxrwx 48       0        122-128-3 /FRUNLOG.TXT
+                               88 .a.. r/rrwxrwxrwx 48       0        122-48-1 /FRUNLOG.TXT ($FILE_NAME)
+                               22 .a.. r/rr-xr-xr-x 48       0        123-128-3 /MSDOS.---
+                               84 .a.. r/rr-xr-xr-x 48       0        123-48-1 /MSDOS.--- ($FILE_NAME)
+                            99731 .a.. r/rr-xr-xr-x 48       0        124-128-3 /SETUPLOG.TXT
+                               90 .a.. r/rr-xr-xr-x 48       0        124-48-1 /SETUPLOG.TXT ($FILE_NAME)
+                             3345 .a.. r/rr-xr-xr-x 48       0        125-128-3 /NETLOG.TXT
+                               86 .a.. r/rr-xr-xr-x 48       0        125-48-1 /NETLOG.TXT ($FILE_NAME)
+                             1676 .a.. r/r--x--x--x 48       0        126-128-3 /MSDOS.SYS
+                               84 .a.. r/r--x--x--x 48       0        126-48-1 /MSDOS.SYS ($FILE_NAME)
+                            70936 .a.. r/rr-xr-xr-x 48       0        128-128-3 /DETLOG.TXT
+                               86 .a.. r/rr-xr-xr-x 48       0        128-48-1 /DETLOG.TXT ($FILE_NAME)
+                            46251 .a.. r/rr-xr-xr-x 48       0        130-128-3 /BOOTLOG.PRV
+                               88 .a.. r/rr-xr-xr-x 48       0        130-48-1 /BOOTLOG.PRV ($FILE_NAME)
+                           446496 .a.. r/rr-xr-xr-x 48       0        132-128-3 /SYSTEM.1ST
+                               86 .a.. r/rr-xr-xr-x 48       0        132-48-1 /SYSTEM.1ST ($FILE_NAME)
+                           222390 .a.. r/r--x--x--x 48       0        133-128-3 /IO.SYS
+                               78 .a.. r/r--x--x--x 48       0        133-48-1 /IO.SYS ($FILE_NAME)
+                               92 .a.. d/d-wx-wx-wx 48       0        134-48-3 /Program Files ($FILE_NAME)
+                               76 .a.. d/drwxrwxrwx 48       0        17-48-1  /WIN98 ($FILE_NAME)
+                               90 .a.. d/drwxrwxrwx 48       0        330-48-3 /My Documents ($FILE_NAME)
+Wed Aug 18 2004 19:28:38       56 m.cb d/drwxrwxrwx 48       0        17-144-3 /WIN98
+                               76 m.cb d/drwxrwxrwx 48       0        17-48-1  /WIN98 ($FILE_NAME)
+Wed Aug 18 2004 19:31:34       22 m..b r/rr-xr-xr-x 48       0        123-128-3 /MSDOS.---
+                               84 m.cb r/rr-xr-xr-x 48       0        123-48-1 /MSDOS.--- ($FILE_NAME)
+Wed Aug 18 2004 19:31:52      152 ...b d/d-wx-wx-wx 48       0        134-144-4 /Program Files
+                               92 m.cb d/d-wx-wx-wx 48       0        134-48-3 /Program Files ($FILE_NAME)
+Wed Aug 18 2004 19:40:54   446496 m..b r/rr-xr-xr-x 48       0        132-128-3 /SYSTEM.1ST
+                               86 m.cb r/rr-xr-xr-x 48       0        132-48-1 /SYSTEM.1ST ($FILE_NAME)
+Wed Aug 18 2004 19:40:56     5166 m..b r/rr-xr-xr-x 48       0        121-128-3 /SUHDLOG.DAT
+                               88 m.cb r/rr-xr-xr-x 48       0        121-48-1 /SUHDLOG.DAT ($FILE_NAME)
+Wed Aug 18 2004 19:42:21     1012 ...b r/rrwxrwxrwx 48       0        122-128-3 /FRUNLOG.TXT
+                               88 ...b r/rrwxrwxrwx 48       0        122-48-1 /FRUNLOG.TXT ($FILE_NAME)
+Wed Aug 18 2004 19:46:48     1012 m... r/rrwxrwxrwx 48       0        122-128-3 /FRUNLOG.TXT
+                               88 m.c. r/rrwxrwxrwx 48       0        122-48-1 /FRUNLOG.TXT ($FILE_NAME)
+Wed Aug 18 2004 19:47:01    70936 ...b r/rr-xr-xr-x 48       0        128-128-3 /DETLOG.TXT
+                               86 ...b r/rr-xr-xr-x 48       0        128-48-1 /DETLOG.TXT ($FILE_NAME)
+Wed Aug 18 2004 19:50:00    70936 m... r/rr-xr-xr-x 48       0        128-128-3 /DETLOG.TXT
+                               86 m.c. r/rr-xr-xr-x 48       0        128-48-1 /DETLOG.TXT ($FILE_NAME)
+Wed Aug 18 2004 19:50:14     1676 m..b r/r--x--x--x 48       0        126-128-3 /MSDOS.SYS
+                               84 m.cb r/r--x--x--x 48       0        126-48-1 /MSDOS.SYS ($FILE_NAME)
+Wed Aug 18 2004 19:53:16    99731 m..b r/rr-xr-xr-x 48       0        124-128-3 /SETUPLOG.TXT
+                               90 m.cb r/rr-xr-xr-x 48       0        124-48-1 /SETUPLOG.TXT ($FILE_NAME)
+                             3345 m..b r/rr-xr-xr-x 48       0        125-128-3 /NETLOG.TXT
+                               86 m.cb r/rr-xr-xr-x 48       0        125-48-1 /NETLOG.TXT ($FILE_NAME)
+Wed Aug 18 2004 19:53:34        0 ...b r/rrwxrwxrwx 48       0        127-128-3 /AUTOEXEC.BAT
+                               90 ...b r/rrwxrwxrwx 48       0        127-48-1 /AUTOEXEC.BAT ($FILE_NAME)
+Wed Aug 18 2004 19:53:36        0 m... r/rrwxrwxrwx 48       0        127-128-3 /AUTOEXEC.BAT
+                               90 m.c. r/rrwxrwxrwx 48       0        127-48-1 /AUTOEXEC.BAT ($FILE_NAME)
+Wed Aug 18 2004 19:54:36    49152 ma.b r/rr-xr-xr-x 48       0        131-128-3 /VIDEOROM.BIN
+                               90 macb r/rr-xr-xr-x 48       0        131-48-1 /VIDEOROM.BIN ($FILE_NAME)
+Wed Aug 18 2004 19:54:54       30 ...b r/rrwxrwxrwx 48       0        129-128-3 /CONFIG.SYS
+                               86 ...b r/rrwxrwxrwx 48       0        129-48-1 /CONFIG.SYS ($FILE_NAME)
+Wed Aug 18 2004 19:54:56       30 m... r/rrwxrwxrwx 48       0        129-128-3 /CONFIG.SYS
+                               86 m.c. r/rrwxrwxrwx 48       0        129-48-1 /CONFIG.SYS ($FILE_NAME)
+Wed Aug 18 2004 19:55:24       56 ...b d/drwxrwxrwx 48       0        330-144-7 /My Documents
+                               90 ...b d/drwxrwxrwx 48       0        330-48-3 /My Documents ($FILE_NAME)
+Wed Aug 18 2004 19:55:26       90 m.c. d/drwxrwxrwx 48       0        330-48-3 /My Documents ($FILE_NAME)
+Wed Aug 18 2004 19:56:12    46251 m..b r/rr-xr-xr-x 48       0        130-128-3 /BOOTLOG.PRV
+                               88 m.cb r/rr-xr-xr-x 48       0        130-48-1 /BOOTLOG.PRV ($FILE_NAME)
+Thu Aug 19 2004 03:00:00    41727 .a.. r/rr-xr-xr-x 48       0        119-128-3 /BOOTLOG.TXT
+                               88 .a.. r/rr-xr-xr-x 48       0        119-48-1 /BOOTLOG.TXT ($FILE_NAME)
+                                0 .a.. r/rrwxrwxrwx 48       0        127-128-3 /AUTOEXEC.BAT
+                               90 .a.. r/rrwxrwxrwx 48       0        127-48-1 /AUTOEXEC.BAT ($FILE_NAME)
+                               86 .a.. r/rrwxrwxrwx 48       0        129-48-1 /CONFIG.SYS ($FILE_NAME)
+                           222368 .a.. r/r--x--x--x 48       0        3662-128-3 /ntldr
+                               76 .a.. r/r--x--x--x 48       0        3662-48-1 /ntldr ($FILE_NAME)
+                            45124 .a.. r/r--x--x--x 48       0        3663-128-3 /ntdetect.com
+                               90 .a.. r/r--x--x--x 48       0        3663-48-1 /ntdetect.com ($FILE_NAME)
+                               82 .a.. r/rr-xr-xr-x 48       0        3664-48-1 /boot.ini ($FILE_NAME)
+                              512 .a.. r/rr-xr-xr-x 48       0        456-128-3 /BOOTSECT.DOS
+                               90 .a.. r/rr-xr-xr-x 48       0        456-48-1 /BOOTSECT.DOS ($FILE_NAME)
+                               80 .a.. d/drwxrwxrwx 48       0        458-48-1 /WINDOWS ($FILE_NAME)
+Thu Aug 19 2004 18:39:26    41727 m..b r/rr-xr-xr-x 48       0        119-128-3 /BOOTLOG.TXT
+                               88 m.cb r/rr-xr-xr-x 48       0        119-48-1 /BOOTLOG.TXT ($FILE_NAME)
+Thu Aug 19 2004 19:47:33      194 ...b r/rr-xr-xr-x 48       0        3664-128-4 /boot.ini
+                               82 ...b r/rr-xr-xr-x 48       0        3664-48-1 /boot.ini ($FILE_NAME)
+                              512 ...b r/rr-xr-xr-x 48       0        456-128-3 /BOOTSECT.DOS
+                               90 ...b r/rr-xr-xr-x 48       0        456-48-1 /BOOTSECT.DOS ($FILE_NAME)
+Thu Aug 19 2004 19:47:34      512 m... r/rr-xr-xr-x 48       0        456-128-3 /BOOTSECT.DOS
+                               90 m.c. r/rr-xr-xr-x 48       0        456-48-1 /BOOTSECT.DOS ($FILE_NAME)
+Thu Aug 19 2004 19:50:37 201326592 ...b r/rr-xr-xr-x 0        0        228-128-1 /pagefile.sys
+                               90 ...b r/rr-xr-xr-x 0        0        228-48-2 /pagefile.sys ($FILE_NAME)
+                               56 ...b d/drwxrwxrwx 48       0        458-144-6 /WINDOWS
+                               80 ...b d/drwxrwxrwx 48       0        458-48-1 /WINDOWS ($FILE_NAME)
+Thu Aug 19 2004 19:50:38       80 m.c. d/drwxrwxrwx 48       0        458-48-1 /WINDOWS ($FILE_NAME)
+Thu Aug 19 2004 19:56:22       82 m.c. r/rr-xr-xr-x 48       0        3664-48-1 /boot.ini ($FILE_NAME)
+Thu Aug 19 2004 19:57:43 12600320 macb r/rr-xr-xr-x 0        0        0-128-7  /$MFT
+                               74 macb r/rr-xr-xr-x 0        0        0-48-3   /$MFT ($FILE_NAME)
+                             4096 macb r/rr-xr-xr-x 0        0        1-128-1  /$MFTMirr
+                               82 macb r/rr-xr-xr-x 0        0        1-48-2   /$MFTMirr ($FILE_NAME)
+                           131072 macb r/rr-xr-xr-x 0        0        10-128-1 /$UpCase
+                               80 macb r/rr-xr-xr-x 0        0        10-48-2  /$UpCase ($FILE_NAME)
+                              344 macb d/dr-xr-xr-x 0        0        11-144-4 /$Extend
+                               80 macb d/dr-xr-xr-x 0        0        11-48-3  /$Extend ($FILE_NAME)
+                         26460160 macb r/rr-xr-xr-x 0        0        2-128-1  /$LogFile
+                               82 macb r/rr-xr-xr-x 0        0        2-48-2   /$LogFile ($FILE_NAME)
+                                0 macb r/rr-xr-xr-x 48       0        3-128-3  /$Volume
+                               80 macb r/rr-xr-xr-x 48       0        3-48-1   /$Volume ($FILE_NAME)
+                             2560 macb r/rr-xr-xr-x 48       0        4-128-4  /$AttrDef
+                               82 macb r/rr-xr-xr-x 48       0        4-48-2   /$AttrDef ($FILE_NAME)
+                          1188808 macb r/rr-xr-xr-x 0        0        6-128-1  /$Bitmap
+                               80 macb r/rr-xr-xr-x 0        0        6-48-2   /$Bitmap ($FILE_NAME)
+                             8192 macb r/rr-xr-xr-x 48       0        7-128-1  /$Boot
+                               76 macb r/rr-xr-xr-x 48       0        7-48-2   /$Boot ($FILE_NAME)
+                         4869332992 macb r/rr-xr-xr-x 0        0        8-128-1  /$BadClus:$Bad
+                                0 macb r/rr-xr-xr-x 0        0        8-128-2  /$BadClus
+                               82 macb r/rr-xr-xr-x 0        0        8-48-3   /$BadClus ($FILE_NAME)
+                           277616 macb r/rr-xr-xr-x 0        0        9-128-8  /$Secure:$SDS
+                               56 macb r/rr-xr-xr-x 0        0        9-144-11 /$Secure:$SDH
+                               56 macb r/rr-xr-xr-x 0        0        9-144-14 /$Secure:$SII
+Thu Aug 19 2004 19:59:01       56 ...b d/drwxrwxrwx 0        0        3671-144-7 /Documents and Settings
+                              110 macb d/drwxrwxrwx 0        0        3671-48-2 /Documents and Settings ($FILE_NAME)
+Thu Aug 19 2004 20:02:10        0 ..c. r/rrwxrwxrwx 48       0        127-128-3 /AUTOEXEC.BAT
+                               30 ..c. r/rrwxrwxrwx 48       0        129-128-3 /CONFIG.SYS
+Thu Aug 19 2004 20:02:11   222368 ..c. r/r--x--x--x 48       0        3662-128-3 /ntldr
+                            45124 ..c. r/r--x--x--x 48       0        3663-128-3 /ntdetect.com
+Thu Aug 19 2004 20:02:21     1012 ..c. r/rrwxrwxrwx 48       0        122-128-3 /FRUNLOG.TXT
+                             1676 ..c. r/r--x--x--x 48       0        126-128-3 /MSDOS.SYS
+                            49152 ..c. r/rr-xr-xr-x 48       0        131-128-3 /VIDEOROM.BIN
+                           222390 ..c. r/r--x--x--x 48       0        133-128-3 /IO.SYS
+Fri Aug 20 2004 01:20:04      194 m... r/rr-xr-xr-x 48       0        3664-128-4 /boot.ini
+Fri Aug 20 2004 01:38:21       30 .a.. r/rrwxrwxrwx 48       0        129-128-3 /CONFIG.SYS
+Fri Aug 20 2004 01:40:19    41727 ..c. r/rr-xr-xr-x 48       0        119-128-3 /BOOTLOG.TXT
+                            93890 ..c. r/rr-xr-xr-x 48       0        120-128-3 /COMMAND.COM
+                             5166 ..c. r/rr-xr-xr-x 48       0        121-128-3 /SUHDLOG.DAT
+                               22 ..c. r/rr-xr-xr-x 48       0        123-128-3 /MSDOS.---
+                            99731 ..c. r/rr-xr-xr-x 48       0        124-128-3 /SETUPLOG.TXT
+                             3345 ..c. r/rr-xr-xr-x 48       0        125-128-3 /NETLOG.TXT
+                            70936 ..c. r/rr-xr-xr-x 48       0        128-128-3 /DETLOG.TXT
+                            46251 ..c. r/rr-xr-xr-x 48       0        130-128-3 /BOOTLOG.PRV
+                           446496 ..c. r/rr-xr-xr-x 48       0        132-128-3 /SYSTEM.1ST
+                              194 ..c. r/rr-xr-xr-x 48       0        3664-128-4 /boot.ini
+                              512 ..c. r/rr-xr-xr-x 48       0        456-128-3 /BOOTSECT.DOS
+Fri Aug 20 2004 01:50:30       90 mac. r/rr-xr-xr-x 0        0        228-48-2 /pagefile.sys ($FILE_NAME)
+Fri Aug 20 2004 01:53:08      160 ...b d/dr-xr-xr-x 0        0        411-144-1 /System Volume Information
+                              116 macb d/dr-xr-xr-x 0        0        411-48-2 /System Volume Information ($FILE_NAME)
+Fri Aug 20 2004 01:53:09      160 m.c. d/dr-xr-xr-x 0        0        411-144-1 /System Volume Information
+Fri Aug 20 2004 02:04:01 133730304 ...b r/rr-xr-xr-x 0        0        343-128-1 /hiberfil.sys
+                               90 macb r/rr-xr-xr-x 0        0        343-48-2 /hiberfil.sys ($FILE_NAME)
+Fri Aug 20 2004 02:04:05       56 m.c. d/drwxrwxrwx 0        0        3671-144-7 /Documents and Settings
+Fri Aug 20 2004 18:19:12       48 m..b d/drwxrwxrwx 0        0        10519-144-1 /Temp
+                               74 macb d/drwxrwxrwx 0        0        10519-48-4 /Temp ($FILE_NAME)
+Fri Aug 20 2004 18:21:05       56 m.c. d/drwxrwxrwx 48       0        330-144-7 /My Documents
+Fri Aug 20 2004 18:21:09       56 .a.. d/drwxrwxrwx 48       0        330-144-7 /My Documents
+Fri Aug 20 2004 18:26:37       48 .a.. d/drwxrwxrwx 0        0        10519-144-1 /Temp
+                               56 .a.. d/drwxrwxrwx 48       0        17-144-3 /WIN98
+Wed Aug 25 2004 18:56:09       56 m.c. d/drwxrwxrwx 48       0        458-144-6 /WINDOWS
+Wed Aug 25 2004 19:18:25      328 m.cb d/dr-xr-xr-x 0        0        11736-144-1 /RECYCLER
+                               82 macb d/dr-xr-xr-x 0        0        11736-48-2 /RECYCLER ($FILE_NAME)
+Thu Aug 26 2004 18:05:22       48 ..c. d/drwxrwxrwx 0        0        10519-144-1 /Temp
+Thu Aug 26 2004 18:51:47      194 .a.. r/rr-xr-xr-x 48       0        3664-128-4 /boot.ini
+Fri Aug 27 2004 18:08:05       56 .a.. d/drwxrwxrwx 0        0        3671-144-7 /Documents and Settings
+Fri Aug 27 2004 18:08:06      160 .a.. d/dr-xr-xr-x 0        0        411-144-1 /System Volume Information
+                               56 .a.. d/drwxrwxrwx 48       0        458-144-6 /WINDOWS
+Fri Aug 27 2004 18:08:14 201326592 mac. r/rr-xr-xr-x 0        0        228-128-1 /pagefile.sys
+Fri Aug 27 2004 18:08:16 133730304 mac. r/rr-xr-xr-x 0        0        343-128-1 /hiberfil.sys
+Fri Aug 27 2004 18:12:30      328 .a.. d/dr-xr-xr-x 0        0        11736-144-1 /RECYCLER
+Fri Aug 27 2004 18:28:49      152 m.c. d/d-wx-wx-wx 48       0        134-144-4 /Program Files
+Fri Aug 27 2004 18:29:18      152 .a.. d/d-wx-wx-wx 48       0        134-144-4 /Program Files
